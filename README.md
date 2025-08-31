@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Matys
 
-<!--
-**Matyslgr/Matyslgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a computer science student at **Epitech**.  
+🤖 Passionate about **Artificial Intelligence** and exploring how technology can solve complex problems.  
 
-Here are some ideas to get you started:
+🛠 My main tools are **C, C++ and Python**, and I enjoy building projects that challenge my skills and creativity.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 📧 Email: your.email@example.com
+
+---
