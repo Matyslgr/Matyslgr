@@ -9,7 +9,7 @@
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 📧 Email: your.email@example.com
+- [Linkedin](https://www.linkedin.com/in/matys-laguerre-39560a2b1/)
+- 📧 Email: matys.laguerre@epitech.eu
 
 ---
